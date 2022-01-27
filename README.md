@@ -1,6 +1,6 @@
 - Hello, I’m Zachary Goldberg
 - I’m interested in learning about backend development and DevOps
-- I’m currently learning python using Django, Flask, and Bottle as well as AWS, GCP, and Azure
+- I’m currently learning Django, Flask, and Bottle with PostrgresSQL as well as AWS, GCP, and Azure
 - I’m looking to collaborate on anyhting related to backend and cloud development
 - I can be reached at zacharysgoldberg@outlook.com
 
