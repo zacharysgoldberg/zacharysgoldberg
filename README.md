@@ -2,7 +2,7 @@
 - I’m interested in learning about backend development and DevOps
 - I’m currently learning python using Django, Flask, and Bottle as well as AWS, GCP, and Azure
 - I’m looking to collaborate on anyhting related to backend and cloud development
-- You can reach me at my outlook zacharysgoldberg@outlook.com
+- I can be reached at zacharysgoldberg@outlook.com
 
 <!---
 zacharysgoldberg/zacharysgoldberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
