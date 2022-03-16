@@ -1,7 +1,7 @@
 - Hello, I’m Zachary Goldberg
 - I’m interested in learning about backend development and DevOps
 - I’m currently learning Flask and Django with PostrgreSQL as well as AWS, GCP, and Azure
-- I’m also interested in collaborating/contribtuting on anything related to backend and cloud development
+- I’m also interested in collaborating/contribtuting to anything related to backend and cloud development
 - I can be reached at zacharysgoldberg@outlook.com
 
 <!---
