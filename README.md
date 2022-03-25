@@ -1,6 +1,6 @@
-- Hello, I’m Zachary Goldberg
-- I’m interested in learning about backend development and DevOps
-- I’m currently learning Flask and Django with PostrgreSQL as well as AWS, GCP, and Azure
+- Currently developing skills in modern software development principles [SRE, DevOps]
+- I’m interested in learning about backend/cloud development, and SRE
+- I’m currently learning Django with PostrgreSQL using Docker as well as deploying them on AWS, GCP, and Azure
 - I’m also interested in collaborating/contribtuting to anything related to backend and cloud development
 - I can be reached at zacharysgoldberg@outlook.com
 
