@@ -1,4 +1,4 @@
-- Currently developing skills in modern software development principles [SRE, DevOps]
+- Currently developing skills in modern software engineering principles [SRE, DevOps]
 - I’m interested in learning about backend/cloud development, and SRE
 - I’m currently learning Django with PostrgreSQL using Docker as well as deploying them on AWS, GCP, and Azure
 - I’m also interested in collaborating/contribtuting to anything related to backend and cloud development
