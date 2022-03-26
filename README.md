@@ -1,7 +1,7 @@
 - Currently developing skills in modern software engineering principles [SRE, DevOps]
-- I’m interested in learning about backend/cloud development, and SRE
-- I’m currently learning Django with PostrgreSQL using Docker as well as deploying them on AWS, GCP, and Azure
-- I’m also interested in collaborating/contribtuting to anything related to backend and cloud development
+- I’m interested in learning more about backend development, and SRE
+- I’m currently learning Django with PostrgreSQL, integrating unit testing with Pytest and managed by Docker. Additionally, learning to deploy projects to AWS, GCP, and Azure
+- I’m also interested in collaborating/contribtuting to anything related to backend/or cloud development
 - I can be reached at zacharysgoldberg@outlook.com
 
 <!---
