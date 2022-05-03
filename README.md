@@ -1,5 +1,4 @@
-- Currently developing skills in modern software engineering principles [DevOps]
-- I’m currently learning Django with Docker, integrating unit testing using Pytest and managed by PostgreSQL. Additionally, learning to deploy projects to AWS, GCP, and Azure
+- Currently learning Django and advanced Flask, as well as integrating unit testing using Pytest and Github actions. Additionally, learning to deploy projects to AWS and Azure
 - I’m interested in collaborating/contribtuting to anything related to backend/or cloud development
 - I can be reached at zacharysgoldberg@outlook.com
 
