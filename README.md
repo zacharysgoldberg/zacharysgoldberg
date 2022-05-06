@@ -1,4 +1,4 @@
-- Currently learning Django and advanced Flask, as well as integrating unit testing using Pytest and Github actions. Additionally, learning to deploy projects to AWS and Azure
+- Currently learning Django and advanced Flask, as well as integrating unit testing using Pytest and Github actions. In process of obtaining Azure fundamnetals and and Associate certifications (Developer/Data Engineer).
 - I’m interested in collaborating/contribtuting to anything related to backend/or cloud development
 - I can be reached at zacharysgoldberg@outlook.com
 
