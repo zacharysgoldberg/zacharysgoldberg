@@ -1,4 +1,4 @@
-Hello, I'm Zach. I'm a backend-focused software developer. I recently graduated from NuCamp's backend developer bootcamp and am currently learning Django and intermediate Azure development. I'm also in the process of obtaining Azure fundamentals and Associate certifications (Developer Associate AZ-204).
+Hello, I'm Zach. I'm a backend-focused software developer. I recently graduated from NuCamp's backend developer bootcamp and am currently learning Django and intermediate Azure services. I'm also in the process of obtaining Azure fundamentals and Associate certifications (Developer Associate AZ-204).
 
 I come from a non-technical background where I spent most of my time in college training and studying for a career at a federal law enforcement agency. After taking a class in MATLAB and another in Machine Learning with MATLAB late in my education, I discoverd my passion for programming. Upon graduating, I decided to make a massive career shift into the development world and have never looked back.
 
