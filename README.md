@@ -11,7 +11,7 @@ I'm also an active member of DAV (Disabled American Veterans) and participate in
 ## Current Projects
 Pay2Peer:
 
-Receipt-Manager:
+Stub-Manager:
 
 Porftolio Website:
 
