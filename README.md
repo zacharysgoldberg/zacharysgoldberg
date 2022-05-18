@@ -6,7 +6,7 @@ I come from a non-technical background where I spent most of my time in college 
 I’m interested in collaborating/contribtuting to anything related to backend/or cloud development.
 
 Outside of development, I spend most of my time with my two-year-old son and Wife, who is incredibly supportive of my endeavor to break into a junior developer role.
-I'm also an active member of DAV (Disabled American Veterans) and participate in helping both transitioning and returning veterans who have rightfully earned benefits in any capacity that I can.
+I'm also an active member of the DAV (Disabled American Veterans) association and participate in helping both transitioning and returning veterans who have rightfully earned benefits in any capacity that I can.
 
 ## Current Projects
 Pay2Peer:
