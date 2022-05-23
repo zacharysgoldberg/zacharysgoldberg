@@ -1,6 +1,6 @@
 Hello, I'm Zach. I'm a backend-focused software developer. I recently graduated from NuCamp's backend developer bootcamp and am currently learning Django and intermediate Azure services. I'm also in the process of obtaining the Azure Developer Associate certification (AZ-204).
 
-I come from a non-technical background where I spent most of my time in college studying for a career in federal law enforcement. However, after taking a class in MATLAB and another in Machine Learning with MATLAB late in my education, I discovered my passion for computer science and programming. Upon graduating, I decided to make a career shift into development and have never looked back.
+I come from a non-technical background where I spent most of my time in college studying for a career in federal law enforcement. However, after taking a class in MATLAB and another in Machine Learning with MATLAB late in my education, I discovered my passion for programming  and computer science. Upon graduating, I decided to make a career shift into development and have never looked back.
 
 ## Interests
 I’m interested in collaborating/contribtuting to anything related to backend/or cloud development.
@@ -11,7 +11,7 @@ I'm also an active member of the DAV (Disabled American Veterans) association an
 ## Current Projects
 Pay2Peer: In-Progress.
 
-Stub-Manager: Backend complete. UI in progress.
+Stub-Manager: Backend complete. UI in-progress.
 
 Porftolio Website: In-Progress.
 
