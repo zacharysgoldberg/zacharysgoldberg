@@ -11,7 +11,7 @@ I'm also an active member of the DAV (Disabled American Veterans) association an
 ## Current Projects
 SEO-Web Crawler: In-Progress
 
-Pay2Peer: In-progress (https://github.com/zacharysgoldberg/Pay2Peer)
+Pay2Peer: In-progress https://github.com/zacharysgoldberg/Pay2Peer
 
 ### Contact
 zacharysgoldberg@outlook.com
