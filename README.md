@@ -11,7 +11,7 @@ I'm also an active member of the DAV (Disabled American Veterans) association an
 ## Current Projects
 [Stub-Manager](https://github.com/zacharysgoldberg/Stub-Manager): 90% complete
 
-[Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map): Frontend complete, Backend in-progress -> 65%
+[Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map): Frontend complete, Backend in-progress -> 65% complete
 
 ### Contact
 zacharysgoldberg@outlook.com
