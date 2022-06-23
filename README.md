@@ -9,9 +9,9 @@ Outside of development, I spend most of my time with my two-year-old son and Wif
 I'm also an active member of the DAV (Disabled American Veterans) association and participate in helping both transitioning and returning veterans who have rightfully earned benefits in any capacity that I can.
 
 ## Current Projects
-SEO-Web Crawler: In-Progress
+[Stub-Manager](https://github.com/zacharysgoldberg/Stub-Manager): 90% complete
 
-Pay2Peer: In-progress https://github.com/zacharysgoldberg/Pay2Peer
+[Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map): Frontend complete -> Backend in-progress
 
 ### Contact
 zacharysgoldberg@outlook.com
