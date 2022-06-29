@@ -9,9 +9,9 @@ Outside of development, I spend most of my time with my two-year-old son and Wif
 I'm also an active member of the DAV (Disabled American Veterans) association and participate in helping both transitioning and returning veterans who have rightfully earned benefits in any capacity that I can.
 
 ## Current Projects
-[Stub-Manager](https://github.com/zacharysgoldberg/Stub-Manager): 90% complete
+[Stub-Manager](https://github.com/zacharysgoldberg/Stub-Manager): 98% complete
 
-[Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map): Frontend complete, Backend in-progress -> 65% complete
+[Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map): Frontend complete, Backend in-progress -> 75% complete
 
 ### Contact
 zacharysgoldberg@outlook.com
