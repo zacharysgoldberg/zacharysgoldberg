@@ -5,11 +5,10 @@ I come from a non-technical background where I spent most of my time in college 
 ## Interests
 I’m interested in collaborating/contribtuting to anything related to backend/or cloud development.
 
-Outside of development, I spend most of my time with my two-year-old son and Wife, who is incredibly supportive of my endeavor to break into a junior developer role.
-I'm also an active member of the DAV (Disabled American Veterans) association and participate in helping both transitioning and returning veterans who have rightfully earned benefits in any capacity that I can.
+Outside of development, I spend most of my time with my two-year-old son and Wife.
+I'm also an active member of the DAV (Disabled American Veterans) association.
 
 ## Current Projects
-[Stub-Manager](https://github.com/zacharysgoldberg/Stub-Manager): 98% complete
 
 [Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map): Frontend complete, Backend in-progress -> 75% complete
 
