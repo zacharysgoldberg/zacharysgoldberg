@@ -1,4 +1,4 @@
-Hello, I'm a backend-focused software developer. I recently graduated from NuCamp's backend developer bootcamp and am currently learning FastAPI and advanced Azure services. I'm also in the process of obtaining the Azure Developer Associate certification (AZ-204).
+Hello, I'm a backend-focused software developer. I recently graduated from NuCamp's backend developer bootcamp and am currently learning FastAPI and Express services. I'm also in the process of obtaining the Azure Developer Associate certification (AZ-204).
 
 I come from a non-technical background where I spent most of my time in college studying for a career in federal law enforcement. However, after taking a class in MATLAB and another in Machine Learning with MATLAB late in my education, I discovered my passion for programming  and computer science. Upon graduating, I decided to make a career shift into development and have never looked back.
 
