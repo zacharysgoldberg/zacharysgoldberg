@@ -3,7 +3,7 @@ Hello, I'm a backend-focused software developer. I recently graduated from NuCam
 I come from a non-technical background where I spent most of my time in college studying for a career in federal law enforcement. However, after taking a class in MATLAB and another in Machine Learning with MATLAB late in my education, I discovered my passion for programming  and computer science. Upon graduating, I decided to make a career shift into development and have never looked back.
 
 ## Interests
-I’m interested in collaborating/contribtuting to anything related to backend/or cloud related.
+I’m interested in collaborating/contribtuting to anything backend/or cloud related.
 
 Outside of development, I spend most of my time with my two-year-old son and Wife.
 I'm also an active member of the DAV (Disabled American Veterans) association.
