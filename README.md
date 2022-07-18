@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Python, SQL, and DevOps**
 
+- 📄 Know about my experiences [https://1drv.ms/b/s!Ah4qSs8EzmOWkIo2bF4G2ZI3lJNW_A](https://1drv.ms/b/s!Ah4qSs8EzmOWkIo2bF4G2ZI3lJNW_A)
+
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
 - Outside of development, I spend most of my time with my two-year-old son and Wife.
