@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zach Goldberg</h1>
-<h3 align="center">A backend/cloud developer</h3>
+<h3 align="center">A Backend/Cloud Developer</h3>
 
 - 🔭 I’m currently working on [Exercise Map](https://github.com/zacharysgoldberg/Exercise-Map)
 
