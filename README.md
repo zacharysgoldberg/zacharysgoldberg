@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zach Goldberg</h1>
+<h1 align="center">Hi, I'm Zach Goldberg</h1>
 <h3 align="center">A Backend/Cloud Developer</h3>
 
 - 🔭 I’m currently working on [Exercise Map](https://github.com/zacharysgoldberg/Exercise-Map)
