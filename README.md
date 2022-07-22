@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **backend and cloud-related projects**
 
-- 💬 Feel free to ask me about **Python, SQL, and DevOps**
+- 💬 Feel free to ask me about **Python, SQL, or DevOps**
 
 - 📄 Know about my experiences [https://1drv.ms/b/s!Ah4qSs8EzmOWkIo2bF4G2ZI3lJNW_A](https://1drv.ms/b/s!Ah4qSs8EzmOWkIo2bF4G2ZI3lJNW_A)
 
