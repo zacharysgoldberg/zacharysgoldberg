@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
-- 👪 Outside of development, I spend most of my time with my two-year-old son and Wife.
+- 👪 Outside of development, I spend most of my time with my wife and son.
 I'm also an active member of the DAV (Disabled American Veterans) association.
 
 <h3 align="left">Connect with me:</h3>
