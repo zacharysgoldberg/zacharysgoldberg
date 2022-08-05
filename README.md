@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zach Goldberg</h1>
 <h3 align="center">A Backend/Cloud Developer</h3>
 
-- 🔭 I’m currently working on building out the backend for [Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map) and finishing up system tests for [Receipt-Manager](https://github.com/zacharysgoldberg/Receipt-Manager)
+- 🔭 I’m currently working on building out the backend for [Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map) and finishing system tests for [Receipt-Manager](https://github.com/zacharysgoldberg/Receipt-Manager)
 
 - 🌱 I’m currently learning **FastAPI and C#**
 
