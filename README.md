@@ -7,14 +7,14 @@
 
 - 👥 I’m looking to collaborate on **backend and cloud-related projects**
 
-- 💬 Feel free to ask me about **Python, SQL, or DevOps**
+- 💬 Feel free to ask me about **Python, SQL, /or DevOps**
 
 - 📄 Know about my experiences [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWkIo2LPBhY4YUZvr6Kg)
 
 
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
-- Outside of development, I spend much of my time with my wife and son.
+- Outside of development, I spend the majority of my time with my wife and son.
 I'm also an active member of the DAV (Disabled American Veterans) association.
 
 <h3 align="left">Connect with me:</h3>
