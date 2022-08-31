@@ -9,10 +9,10 @@
 
 - 💬 Feel free to ask me about **Python, SQL, /or DevOps**
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWkIo2LPBhY4YUZvr6Kg)
+- 📄 Know about my experiences: [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWkIo2LPBhY4YUZvr6Kg)
 
 
-- 📫 How to reach me **zacharysgoldberg@outlook.com**
+- 📫 How to reach me: **zacharysgoldberg@outlook.com**
 
 - Outside of development, I spend the majority of my time with my wife and son.
 I'm also an active member of the DAV (Disabled American Veterans) association.
