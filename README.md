@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the backend for [Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map).
 
-- 🌱 I’m currently learning **FastAPI and Kubernetes**.
+- 🌱 I’m currently learning **Kubernetes and Data Structures and Algorithms**.
 
 - 👥 I’m looking to collaborate on **backend and cloud-related projects**
 
