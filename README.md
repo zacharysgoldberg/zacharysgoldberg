@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on the backend for [Exercise-Map](https://github.com/zacharysgoldberg/Exercise-Map).
 
-- 🌱 I’m learning **Kubernetes and Data Structures/Algorithms**.
+- 🌱 I’m learning **Kubernetes and Data Structures/Algorithms** at the moment.
 
 - 👥 I’m looking to collaborate on **backend and cloud-related projects**
 
@@ -11,11 +11,7 @@
 
 - 📄 Know about my experiences: [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWkIo2LPBhY4YUZvr6Kg)
 
-
-- 📫 How to reach me: **zacharysgoldberg@outlook.com**
-
-- Outside of development, I spend the majority of my time with my wife and son.
-I'm also an active member of the DAV (Disabled American Veterans) association.
+- 📫 Feel free to reach out to me at **zacharysgoldberg@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
