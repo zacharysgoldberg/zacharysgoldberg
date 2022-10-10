@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zach Goldberg</h1>
 <h3 align="center">A Backend Developer</h3>
 
-- 🔭 I’m currently working on [Piizza-Drone](https://github.com/zacharysgoldberg/pizza-drone).
+- 🔭 I’m currently working on [Pizza-Drone](https://github.com/zacharysgoldberg/pizza-drone).
 
 - 🌱 I’m learning **Kubernetes and Data Structures/Algorithms** at the moment.
 
