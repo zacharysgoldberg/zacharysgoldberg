@@ -9,7 +9,7 @@
 
 - 💬 Feel free to ask me about **Python, SQL, /or DevOps**
 
-- 📄 Know about my experiences: [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWkIo2LPBhY4YUZvr6Kg)
+- 📄 Know about my experiences: [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWlN8__UrjNNRnREmvcg)
 
 - 📫 Feel free to reach out to me at **zacharysgoldberg@outlook.com**
 
