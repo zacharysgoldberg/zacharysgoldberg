@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pizza-Drone](https://github.com/zacharysgoldberg/pizza-drone).
 
-- 🌱 I’m learning **Data Structures/Algorithms** at the moment.
+- 🌱 I’m learning **C++ and Data Structures/Algorithms** at the moment.
 
 - 👥 I’m looking to collaborate on **backend and cloud-related projects**
 
