@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zach Goldberg</h1>
-<h3 align="center">A Backend Engineer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🔭 I’m currently working on [Pizza-Drone](https://github.com/zacharysgoldberg/pizza-drone).
 
