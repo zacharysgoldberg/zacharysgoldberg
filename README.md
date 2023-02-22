@@ -5,7 +5,7 @@
 
 - 🌱 I’m always studying **Data Structures/Algorithms**.
 
-- 👥 I’m looking to collaborate on **backend and cloud-related projects**
+- 👥 I’m interested in collaborating on **backend and cloud-related projects**
 
 - 💬 Feel free to ask me about **Python, SQL, /or C++**
 
