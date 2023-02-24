@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zach</h1>
+<h1 align="center">Hi, I'm Zach</h1>
 <h3 align="center">A Software Engineer</h3>
 
 - 🔭 I’m currently working on **Pizza-Drone**
