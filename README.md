@@ -1,8 +1,8 @@
 <h3 align="center">Welcome</h3>
 
-- 🔭 I’m currently working on **Pizza-Drone**
+- 🔭 I’m currently working on **Small C/C++ projects for an Arduino MCU**
 
-- 🌱 I’m currently learning **data structures and algorithms**
+- 🌱 I’m currently studying **data structures and algorithms**
 
 - 👥 I’m looking to collaborate on **IoT projects**
 
