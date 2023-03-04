@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **IoT and embedded systems**
 
-- 💬 Feel free to ask me about **APIs, Databases, or embedded systems++**
+- 💬 Feel free to ask me about **APIs, Databases, or Embedded Systems**
 
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
