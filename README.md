@@ -6,7 +6,7 @@
 
 - 👥 I’m looking to collaborate on **IoT projects**
 
-- 🤝 I’m looking for help with **IoT and embedded systems**
+- 🤝 I welcome help in **IoT development**
 
 - 💬 Feel free to ask me about **APIs, Databases, or Embedded Systems**
 
