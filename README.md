@@ -1,4 +1,4 @@
-<h3 align="center">Welcome</h3>
+<h3 align="center">Hello</h3>
 
 - 🔭 I’m currently working on **Small C/C++ projects for an Arduino MCU**
 
