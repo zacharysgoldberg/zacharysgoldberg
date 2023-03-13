@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on **Small C/C++ projects for an Arduino MCU**
 
-- 🌱 I’m currently studying **embedded programming**
-
 - 👥 I’m looking to collaborate on **IoT projects**
 
 - 🤝 I welcome help in **IoT development**
