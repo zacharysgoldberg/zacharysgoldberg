@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **Personal C/C++ projects for an Arduino MCU**
 
-- 👥 I’m looking to collaborate on **IoT projects**
+- 👥 I’m looking to collaborate on **IoT related projects**
 
 - 🤝 I welcome help in **IoT/Embedded development**
 
