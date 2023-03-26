@@ -23,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zacharysgoldberg&show_icons=true&locale=en&layout=compact" alt="zacharysgoldberg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zacharysgoldberg&show_icons=true&locale=en" alt="zacharysgoldberg" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zacharysgoldberg&show_icons=true&locale=en" alt="zacharysgoldberg" /></p> -->
 
 <!---
 zacharysgoldberg/zacharysgoldberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
