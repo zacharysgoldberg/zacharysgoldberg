@@ -1,12 +1,12 @@
 <h3 align="center">Hi</h3>
 
-- 🔭 I’m currently working on **Personal C/C++ projects for an Arduino MCU**
+- 🔭 I’m currently working on **Personal Arduino MCU projects**
 
-- 👥 I’m looking to collaborate on **IoT related projects**
+- 👥 I’m looking to collaborate on **Robotics related projects**
 
-- 🤝 I welcome help in **IoT/Embedded development**
+- 🤝 I welcome help in **IoT/Robotics**
 
-- 💬 Feel free to ask me about **APIs, Databases, or Embedded Systems**
+- 💬 Feel free to ask me about **Backend, AI, or Embedded Systems**
 
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
