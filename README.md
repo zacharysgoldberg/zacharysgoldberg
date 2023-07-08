@@ -6,7 +6,7 @@
 
 - 🤝 I welcome help in **IoT/Robotics**
 
-- 💬 Feel free to ask me about **Backend, AI, or Embedded Systems**
+- 💬 Feel free to ask me about **Backend, Data Science, or Embedded Systems**
 
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
