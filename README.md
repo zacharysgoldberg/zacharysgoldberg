@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on **Personal Arduino MCU projects**
 
-- 👥 I’m looking to collaborate on **Embedded System related projects**
-
-- 🤝 I welcome help in **Embedded Developmenr**
+- 🤝 I’m looking to collaborate on **Embedded Systems related projects**
 
 - 💬 Feel free to ask me about **Backend /or Real-time Systems Development**
 
