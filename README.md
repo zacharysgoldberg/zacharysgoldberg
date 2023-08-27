@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently working on **Personal Arduino MCU projects**
 
-- 👥 I’m looking to collaborate on **Robotics related projects**
+- 👥 I’m looking to collaborate on **Embedded System related projects**
 
-- 🤝 I welcome help in **IoT/Robotics**
+- 🤝 I welcome help in **Embedded Developmenr**
 
-- 💬 Feel free to ask me about **Backend /or Real-time Systems**
+- 💬 Feel free to ask me about **Backend /or Real-time Systems Development**
 
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
