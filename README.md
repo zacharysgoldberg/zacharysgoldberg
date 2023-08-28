@@ -4,7 +4,7 @@
 
 - 🤝 I’m looking to collaborate on **Embedded Systems related projects**
 
-- 💬 Feel free to ask me about **Backend /or Real-time Systems Development**
+- 💬 Feel free to ask me about **Backend /or Real-Time Systems Development**
 
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
