@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWlN9Ed9vbsSL_406prQ?e=MCBb4d)
+- 📄 [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWlN9Ed9vbsSL_406prQ?e=MCBb4d)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
