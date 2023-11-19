@@ -1,8 +1,8 @@
 <h3 align="center">Hi</h3>
 
-- 🔭 I’m currently working on **Personal Arduino MCU projects**
+- 🔭 I’m currently working on **Real-time Linux application tools**
 
-- 🤝 I’m looking to collaborate on **Embedded Systems related projects**
+- 🤝 I’m looking to collaborate on **Real-time system related projects**
 
 - 💬 Feel free to ask me about **Backend /or Real-Time Systems Development**
 
