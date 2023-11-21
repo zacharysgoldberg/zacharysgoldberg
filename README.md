@@ -1,6 +1,6 @@
 <h3 align="center">Hi</h3>
 
-- 🔭 I’m currently working on **Real-time Linux application tools**
+- 🔭 I’m currently working on building a **Web Server and Search Engine** project.
 
 - 🤝 I’m looking to collaborate on **Real-time system related projects**
 
