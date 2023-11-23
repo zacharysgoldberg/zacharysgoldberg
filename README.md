@@ -1,6 +1,6 @@
 <h3 align="center">Hi</h3>
 
-- 🔭 I’m currently working on building a Unix/Linux based **Web Server and Search Engine** application.
+- 🔭 I’m currently working on building a Unix/Linux based **TCP Server and Search Engine** application.
 
 - 🤝 I’m looking to collaborate on **Real-time system related projects**
 
