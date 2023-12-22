@@ -1,8 +1,8 @@
 <h3 align="center">Hi</h3>
 
-- 🔭 I’m currently working on building a Unix/Linux based **TCP Server and an interactive Client application for cloud storage**.
+- 🔭 I’m currently working on building a Unix/Linux based **TCP Server and an interactive Client application for a personal cloud service**.
 
-- 🤝 I’m looking to collaborate on **Real-time system related projects**
+- 🤝 I’m interested in working on **Real-time application projects**
 
 - 💬 Feel free to ask me about **Backend /or Real-Time Systems Development**
 
