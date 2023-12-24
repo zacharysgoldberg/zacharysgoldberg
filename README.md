@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on building a Unix/Linux based **TCP Server and an interactive Client application for a personal cloud service**.
 
-- 🤝 I’m interested in working on **Real-time application projects**
+- 🤝 I’m interested in working on **Network application projects**
 
-- 💬 Feel free to ask me about **Backend /or Real-Time Systems Development**
+- 💬 Feel free to ask me about **Backend /or Network Systems Development**
 
 - 📫 How to reach me **zacharysgoldberg@outlook.com**
 
