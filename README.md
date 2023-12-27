@@ -1,12 +1,10 @@
 <h3 align="center">Hi</h3>
 
-- 🔭 I’m currently working on building a Unix/Linux based **TCP Server and an interactive Client application for a personal cloud service**.
+- 🔭 I’m currently working on a **.NET and Angular based cloud service application**.
 
-- 🤝 I’m interested in working on **Network application projects**
+- 🤝 I’m interested in working on **backend-focused applications**
 
-- 💬 Feel free to ask me about **Backend /or Network Systems Development**
-
-- 📫 How to reach me **zacharysgoldberg@outlook.com**
+- 📫 Feel free to reach to me at **zacharysgoldberg@outlook.com**
 
 - 📄 [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw)
 
