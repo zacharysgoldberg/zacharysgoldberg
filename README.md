@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a **.NET and Angular based cloud service application**.
 
-- 🤝 I’m interested in working on **backend-focused and HPC applications**.
+- 🤝 I’m interested in working on **Backend and HPC applications**.
 
 - 📫 Feel free to reach to me at **zacharysgoldberg@outlook.com**.
 
