@@ -6,7 +6,7 @@
 
 - 📫 Feel free to reach to me at **zacharysgoldberg@outlook.com**
 
-- 📄 [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw)
+- 📄 My experience so far [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
