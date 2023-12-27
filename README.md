@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on a **.NET and Angular based cloud service application**.
 
-- 🤝 I’m interested in working on **backend-focused applications**
+- 🤝 I’m interested in working on **backend-focused and HPC applications**.
 
-- 📫 Feel free to reach to me at **zacharysgoldberg@outlook.com**
+- 📫 Feel free to reach to me at **zacharysgoldberg@outlook.com**.
 
 - 📄 My experience so far [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw)
 
