@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on an **ASP.NET and Blazor based cloud storage application**.
 
-- 🤝 I’m interested in working on **Backend-focused applications**.
+- 🤝 I’m interested in working on **Backend and data-driven applications**.
 
 - 📫 Feel free to reach to me at **zacharysgoldberg@outlook.com**.
 
