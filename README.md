@@ -1,6 +1,6 @@
 <h3 align="center">Hi</h3>
 
-- 🔭 I’m currently working on a **.NET and Angular based cloud service application**.
+- 🔭 I’m currently working on an **ASP.NET and Blazor based cloud storage application**.
 
 - 🤝 I’m interested in working on **Backend and HPC applications**.
 
