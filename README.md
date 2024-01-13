@@ -1,4 +1,4 @@
-<h3 align="center">Hi</h3>
+<h3 align="center">Zach Goldberg</h3>
 
 - 🔭 I’m currently working on a cross-platform **ASP.NET Core based chat application**.
 
