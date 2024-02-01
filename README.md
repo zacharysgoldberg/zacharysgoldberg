@@ -1,6 +1,6 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently working on a cross-platform **ASP.NET Core based chat application**.
+- 🔭 I’m currently working on a cross-platform **ASP.NET Core chat application**.
 
 - 🤝 I’m interested in working on **Backend and HPC focused applications**.
 
