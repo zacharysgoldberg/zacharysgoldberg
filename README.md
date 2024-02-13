@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a cross-platform **ASP.NET Core chat application**.
 
-- 🤝 I’m interested in working on **Backend and HPC focused applications**.
+- 🤝 I’m interested in working on **Backend and HPC focused projects**.
 
 - 📫 Feel free to reach out to me at **zacharysgoldberg@outlook.com**.
 
