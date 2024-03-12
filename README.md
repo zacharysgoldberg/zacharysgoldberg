@@ -1,11 +1,11 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently optimizing the UI for **[ChatApp]([ChatApp](https://github.com/zacharysgoldberg/ChatApp))**.
+- 🔭 I’m currently optimizing the UI for **[ChatApp](https://github.com/zacharysgoldberg/ChatApp)**.
 
 - Check out some of my other projects:
-  - [Receipt-Manager]([link_to_project_1](https://github.com/zacharysgoldberg/receipt-manager))
-  - [Real-Estate ETL Pipeline]([link_to_project_2](https://github.com/zacharysgoldberg/real-estate-etl-pipeline))
-  - [Alogorithms]([link_to_project_3](https://github.com/zacharysgoldberg/data-structures-and-algorithms))
+  - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
+  - [Real-Estate ETL Pipeline](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
+  - [Alogorithms](https://github.com/zacharysgoldberg/data-structures-and-algorithms)
 
 - 🤝 I’m interested in working on **Backend and HPC focused projects**.
 
