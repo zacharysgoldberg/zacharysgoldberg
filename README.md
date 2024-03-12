@@ -7,11 +7,11 @@
   - [Real-Estate ETL Pipeline](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Alogorithms](https://github.com/zacharysgoldberg/data-structures-and-algorithms)
 
-- 🤝 I’m interested in working on **Backend and HPC focused projects**.
+- 🤝 I’m interested in working on **Backend and HPC focused projects**
 
-- 📫 Feel free to reach out to me at **zacharysgoldberg@outlook.com**.
+- 📄 See my development experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw)
 
-- 📄 My experience so far [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw)
+- 📫 Feel free to reach out to me at **zacharysgoldberg@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
