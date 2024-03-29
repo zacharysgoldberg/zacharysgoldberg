@@ -1,11 +1,11 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently optimizing the UI for **[ChatApp](https://github.com/zacharysgoldberg/ChatApp)**.
+- 🔭 I’m currently building a data backup and cloud sync storage desktop app using Qt.
 
 - Check out some of my other projects:
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
   - [Real-Estate ETL Pipeline](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
-  - [Alogorithms](https://github.com/zacharysgoldberg/data-structures-and-algorithms)
+  - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
 - 🤝 I’m interested in working on **Backend and HPC focused projects**
 
