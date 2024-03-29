@@ -1,6 +1,6 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently building a data backup and cloud sync storage desktop app using Qt.
+- 🔭 I’m currently working on designing an IoT related project.
 
 - Check out some of my other projects:
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
