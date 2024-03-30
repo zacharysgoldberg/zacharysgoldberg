@@ -1,13 +1,13 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently working on designing a Computer Vision project using OpenCV.
+- 🔭 I’m currently working on designing a GUI project using Qt.
 
 - Check out some of my other projects:
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
   - [Real-Estate ETL Pipeline](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
-- 🤝 I’m interested in working on **Backend and CV focused projects**
+- 🤝 I’m interested in working on **Backend and GUI focused projects**
 
 - 📄 See my development experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw)
 
