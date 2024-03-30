@@ -1,6 +1,6 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently designing a GUI project using Qt.
+- 🔭 I’m currently designing a GUI version of [ChatApp](https://github.com/zacharysgoldberg/ChatApp) using Qt.
 
 - Check out some of my other projects:
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
