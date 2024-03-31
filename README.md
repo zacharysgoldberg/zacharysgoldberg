@@ -7,7 +7,7 @@
   - [Real-Estate ETL Pipeline](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
-- 🤝 I’m interested in working on **Backend and GUI focused projects**
+- 🤝 I’m interested in working on **Backend and Data focused projects**
 
 - 📄 See my development experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw)
 
