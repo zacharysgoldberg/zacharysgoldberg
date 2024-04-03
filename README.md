@@ -1,6 +1,6 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently designing an API for computing real-time data processes.
+- 🔭 I’m currently learning how to build web servers.
 
 - Check out some of my other projects:
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
