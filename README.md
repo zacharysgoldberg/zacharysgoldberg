@@ -1,6 +1,6 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently learning about network development.
+- 🔭 I’m currently learning about network development
 
 - Check out some of my other projects:
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
