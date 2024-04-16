@@ -4,8 +4,8 @@
 
 - Check out some of my projects:
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
-  - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
   - [Real-Estate ETL Pipeline](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
+  - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
 
 - 🤝 I’m interested in working on **Backend and Data focused projects**
 
