@@ -1,6 +1,6 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently working on a mobile version of ChatApp.
+- 🔭 I’m currently working on a mobile version of ChatApp
 
 - Check out some of my projects:
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
