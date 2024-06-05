@@ -3,9 +3,9 @@
 - 🔭 I’m currently improving my existing projects and pursuing a Master's in Computer Science.
 
 - Check out some of my projects:
-  - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
   - [Real-Estate ETL Pipeline](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
+  - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
 - 🤝 I’m interested in working on **Backend and HPC focused projects**
 
