@@ -3,7 +3,7 @@
 - 🔭 I’m currently improving my existing projects and pursuing a Master's in Computer Science.
 
 - Check out some of my projects:
-  - [Real-Estate ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
+  - [Real-Estate Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
