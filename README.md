@@ -1,6 +1,6 @@
 <h3 align="center">Zach Goldberg</h3>
 
-- 🔭 I’m currently working on a mobile app version of ChatApp using .NET MAUI
+- 🔭 I’m currently improving my existing projects and pursuing a Master's in Computer Science.
 
 - Check out some of my projects:
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
