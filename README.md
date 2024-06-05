@@ -7,7 +7,7 @@
   - [Real-Estate ETL Pipeline](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
 
-- 🤝 I’m interested in working on **Backend and Data focused projects**
+- 🤝 I’m interested in working on **Backend and HPC focused projects**
 
 - 📄 My professional experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw)
 
