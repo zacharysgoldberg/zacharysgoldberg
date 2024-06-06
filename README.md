@@ -9,7 +9,7 @@
 
 - 🤝 I’m interested in working on **Backend and HPC focused projects**
 
-- 📄 My professional experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RHIP5jTJJ0JgP3Q?e=U6oeHz)
+- 📄 My professional experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw?e=qX3uip)
 
 - 📫 Feel free to reach out to me at **zacharysgoldberg@outlook.com**
 
