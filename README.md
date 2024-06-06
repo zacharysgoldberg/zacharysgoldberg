@@ -1,4 +1,4 @@
-<h3 align="center">Zach Goldberg</h3>
+<h3 align="center">Zachary Goldberg</h3>
 
 - 🔭 I’m currently improving my existing projects and pursuing a Master's in Computer Science.
 
