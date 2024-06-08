@@ -1,6 +1,6 @@
 <h3 align="center">Zachary Goldberg</h3>
 
-- 🔭 I’m currently improving my existing projects and pursuing a Master's in Computer Science.
+- 🔭 I’m currently improving my existing projects and pursuing a Master's in Computer Science
 
 - Check out some of my projects:
   - [Real-estate Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
