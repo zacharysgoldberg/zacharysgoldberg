@@ -7,7 +7,7 @@
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
-- 🤝 I’m interested in working on **Full-stack and Mobile applications**
+- 🤝 I’m interested in working on **Full-stack, Mobile, and Desktop applications**
 
 - 📄 My professional experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-wvmiQSSH1L79OMqw?e=qX3uip)
 
