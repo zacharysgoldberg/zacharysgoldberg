@@ -9,7 +9,7 @@
 
 - 🤝 I’m interested in working on **Backend and Data driven projects**
 
-- 📄 My professional experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RHIP5jTJJ0JgP3Q?e=J8QhNR)
+- 📄 My professional experience [Resume]
 
 - 📫 Feel free to reach out to me at **zacharysgoldberg@outlook.com**
 
