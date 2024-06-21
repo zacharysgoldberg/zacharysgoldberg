@@ -7,7 +7,7 @@
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
-- 🤝 I’m interested in working on **Backend and Data driven projects**
+- 🤝 I’m interested in working on **Data driven projects**
 
 - 📄 My professional experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
 
