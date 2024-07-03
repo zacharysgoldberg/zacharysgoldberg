@@ -2,8 +2,6 @@
 
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zacharysgoldberg" alt="zacharysgoldberg" /></a> </p>
-
 - 🔭 I’m currently working on [Pizza Drone](https://github.com/zacharysgoldberg/pizza-drone)
 
 - Check out some of my projects:
