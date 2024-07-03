@@ -14,9 +14,9 @@
 
 - 🌱 I’m currently learning **Sci-kit Learn and PyTorch**
 
-- 📫 How to reach me **zacharysgoldberg@outlook.com**
-
 - 📄 My experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
+
+- 📫 How to reach me **zacharysgoldberg@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
