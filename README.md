@@ -1,6 +1,6 @@
 <h3 align="center">Zachary Goldberg</h3>
 
-- 🔭 I’m currently improving my existing projects and pursuing a Master's in Computer Science
+- 🔭 I’m currently working on [Pizza Drone](https://github.com/zacharysgoldberg/pizza-drone)
 
 - Check out some of my projects:
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
