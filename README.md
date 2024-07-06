@@ -11,7 +11,7 @@
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
 
-- 🌱 I’m currently learning **Sci-kit Learn and PyTorch**
+- 🌱 I’m currently learning **Scikit-Learn and PyTorch**
 
 - 📄 My experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
 
