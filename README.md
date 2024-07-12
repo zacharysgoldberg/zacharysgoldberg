@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Zach</h1>
+<h1 align="center">I’m Zach</h1>
 
 <h3 align="center">I'm a Software Engineer transitioning to Machine Learning</h3>
 
