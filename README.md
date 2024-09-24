@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Pizza Drone](https://github.com/zacharysgoldberg/pizza-drone)
 
-- Check out some of my other projects:
+- Check out some of my projects:
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
