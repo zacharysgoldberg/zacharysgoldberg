@@ -1,6 +1,6 @@
-<h1 align="center">I’m Zach</h1>
+<h1 align="center">Hi</h1>
 
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">I'm a Software Engineer with experience in various development roles</h3>
 
 
 - 🔭 I’m currently working on [Pizza Drone](https://github.com/zacharysgoldberg/pizza-drone)
