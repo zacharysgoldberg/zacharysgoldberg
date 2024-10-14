@@ -1,4 +1,4 @@
-<h1 align="center">Backend Engineer/Analyst</h1>
+<h1 align="center">Backend Engineer</h1>
 
 <h3 align="center">I have three years of experience in various development and data roles</h3>
 
