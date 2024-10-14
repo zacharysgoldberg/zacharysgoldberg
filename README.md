@@ -1,6 +1,6 @@
 <h1 align="center">Backend Engineer</h1>
 
-<h3 align="center">I have three years of experience in various development and data roles</h3>
+<h3 align="center">I have three years of experience in backend development and data analytics</h3>
 
 
 - 🔭 I’m currently working on [Pizza Drone](https://github.com/zacharysgoldberg/pizza-drone)
