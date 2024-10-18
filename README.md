@@ -1,4 +1,4 @@
-<h1 align="center">Backend Engineer</h1>
+<h1 align="center">Zach Goldberg</h1>
 
 <h3 align="center">I have three years of experience in software development and data analytics</h3>
 
