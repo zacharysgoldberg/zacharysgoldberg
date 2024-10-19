@@ -1,6 +1,6 @@
 <h1 align="center">Zach Goldberg</h1>
 
-<h3 align="center">I have three years of experience in software development and data analytics</h3>
+<h3 align="center">Experienced in software development and data analytics</h3>
 
 
 - 🔭 I’m currently working on [Pizza Drone](https://github.com/zacharysgoldberg/pizza-drone)
