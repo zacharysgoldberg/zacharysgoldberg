@@ -1,4 +1,4 @@
-<h1 align="center">Zach Goldberg</h1>
+<h1 align="center">Zachary Goldberg</h1>
 
 <h3 align="center">Experienced software developer and data analyst</h3>
 
