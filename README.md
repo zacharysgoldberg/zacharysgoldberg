@@ -3,7 +3,7 @@
 <h3 align="center">Experienced software developer/data analyst</h3>
 
 
-- 🔭 I’m currently working on building an IDS using an AI model to detect threats from logs.
+- 🔭 I’m currently working on building an IDS using an AI model to detect threats from system logs.
 
 - Check out some of my projects:
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
