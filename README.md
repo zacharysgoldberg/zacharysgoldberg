@@ -3,7 +3,7 @@
 <h3 align="center">Experienced software developer/data analyst</h3>
 
 
-- 🔭 I’m currently working on building an log parsing tool using machine learning to detect threats from Windows/Linux system logs.
+- 🔭 I’m currently working on building a log parsing tool using machine learning to detect threats from Windows/Linux system logs.
 
 - Check out some of my projects:
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
