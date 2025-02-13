@@ -3,7 +3,7 @@
 <h3 align="center">Experienced software developer/data analyst</h3>
 
 
-- 🔭 I’m currently working on building a log monitory SIEM tool using machine learning to detect anomolies and threats on Windows/Linux systems.
+- 🔭 I’m currently working on building a log monitoring SIEM tool using machine learning to detect anomolies and threats on Windows/Linux systems.
 
 - Check out some of my projects:
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
