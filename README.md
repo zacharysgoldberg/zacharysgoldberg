@@ -1,9 +1,9 @@
 <h1 align="center">Zachary Goldberg</h1>
 
-<h3 align="center">Experienced software developer/data analyst</h3>
+<h3 align="center">Experienced software engineer/data analyst</h3>
 
 
-- 🔭 I’m currently working on building a log monitoring SIEM tool using machine learning to detect anomalies and threats on Windows/Linux systems.
+- 🔭 I’m currently working on building a predictive maintenance/failure model for various machinery using sensor data.
 
 - Check out some of my projects:
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
