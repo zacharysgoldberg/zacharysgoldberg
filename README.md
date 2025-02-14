@@ -3,7 +3,7 @@
 <h3 align="center">Experienced software engineer/data analyst</h3>
 
 
-- 🔭 I’m currently working on building a predictive maintenance/failure model for various machinery using sensor data.
+- 🔭 I’m currently working on building a predictive maintenance/failure model for various machinery utilizing sensor data.
 
 - Check out some of my projects:
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
