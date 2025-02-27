@@ -1,6 +1,6 @@
 <h1 align="center">Zachary Goldberg</h1>
 
-<h3 align="center">Experienced Software Engineer/Data Analyst</h3>
+<h3 align="center">Experienced Data and Software Engineer</h3>
 
 
 - 🔭 I’m currently working on building a model to predict failures for machinery utilizing various sensor data.
