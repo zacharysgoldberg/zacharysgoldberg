@@ -3,7 +3,7 @@
 <h3 align="center">Experienced Data and Software Engineer</h3>
 
 
-- 🔭 I’m currently developing an IoT sensor data warehouse, including data generation, ETL processing, and storage optimization for real-time analytics.
+- 🔭 I’m currently developing an IoT sensor data warehouse, including data ingestion, transformation, processing, and storage optimization for real-time analytics.
 
 - Check out some of my projects:
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
