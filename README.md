@@ -11,7 +11,7 @@
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
 
-- 🌱 I’m currently studying for the **CompTIA Security+** certification
+- 🌱 I’m currently pursuing a master's in computer science
 
 - 📄 My experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
 
