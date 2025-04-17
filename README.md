@@ -1,6 +1,6 @@
 <h1 align="center">Zachary Goldberg</h1>
 
-<h3 align="center">Experienced Data and Software Engineer</h3>
+<h3 align="center">Experienced in Data and Software</h3>
 
 
 - 🔭 I’m currently developing an IoT sensor data processing and real-time analytics project, including data ingestion, transformation, processing, and storage optimization.
