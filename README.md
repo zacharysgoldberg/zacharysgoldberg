@@ -3,7 +3,7 @@
 <h3 align="center">Experienced in Data and Software</h3>
 
 
-- 🔭 I’m currently developing an IoT sensor data processing and real-time analytics project, including data ingestion, transformation, processing, and storage optimization.
+- 🔭 I’m currently developing a data processing and real-time analytics project, including data ingestion, transformation, processing, and storage.
 
 - Check out some of my projects:
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
