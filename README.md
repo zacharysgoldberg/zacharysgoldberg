@@ -6,7 +6,7 @@
 - 🔭 I'm actively pursuing a master's in computer science.
 
 - Check out some of my projects:
-  - [NHTSA ELT Dashboard](
+  - [NHTSA FARS ELT Dashboard](
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
