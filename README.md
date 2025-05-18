@@ -3,8 +3,6 @@
 <h3 align="center">Experienced in Data and Software</h3>
 
 
-- 🔭 I'm actively pursuing a master's in computer science.
-
 - Check out some of my projects:
   - [NHTSA FARS ELT Dashboard](https://github.com/zacharysgoldberg/nhtsa-fars-elt-dashboard)
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
