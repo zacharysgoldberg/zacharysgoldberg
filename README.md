@@ -1,6 +1,6 @@
 <h1 align="center">Zachary Goldberg</h1>
 
-<h3 align="center">Experienced in Data and Software</h3>
+<h3 align="center">Experienced in Analytics and Engineering</h3>
 
 
 - Check out some of my projects:
