@@ -1,9 +1,7 @@
-<h1 align="center">Zachary Goldberg</h1>
-
-<h3 align="center">Experienced in Analytics and Engineering</h3>
+<h1 align="center">Hi, I'm Zach</h1>
 
 
-- Check out some of my projects:
+- Feel free to check out some of my projects:
   - [NHTSA FARS ELT Dashboard](https://github.com/zacharysgoldberg/nhtsa-fars-elt-dashboard)
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
