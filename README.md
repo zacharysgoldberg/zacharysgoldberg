@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently pursuing a master's in computer science
 
-- 📄 My experience [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
+- 📄 My experience: [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
 
-- 📫 How to reach me **zacharysgoldberg@outlook.com**
+- 📫 How to reach me: **zacharysgoldberg@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
