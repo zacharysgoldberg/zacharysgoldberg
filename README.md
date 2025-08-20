@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Zach</h1>
 
+<h3> I specialize in Software and Data Engineering with more than 3 years of Experience in the Aeropsace and Defense Industry</h3>
 
 - Feel free to check out some of my projects:
   - [NHTSA FARS ELT Dashboard](https://github.com/zacharysgoldberg/nhtsa-fars-elt-dashboard)
