@@ -4,18 +4,18 @@
 
 - 💡 I enjoy solving complex problems with code, building scalable systems, and leveraging data for actionable insights.
 
+- 🌱 I’m currently pursuing a master's in computer science
+
+- 📄 My experience: [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
+
+- 📫 How to reach me: **zacharysgoldberg@outlook.com**
+
 - Feel free to check out some of my personal projects:
   - [NHTSA FARS ELT Dashboard](https://github.com/zacharysgoldberg/nhtsa-fars-elt-dashboard)
   - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Receipt-Manager](https://github.com/zacharysgoldberg/receipt-manager)
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
-
-- 🌱 I’m currently pursuing a master's in computer science
-
-- 📄 My experience: [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
-
-- 📫 How to reach me: **zacharysgoldberg@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
