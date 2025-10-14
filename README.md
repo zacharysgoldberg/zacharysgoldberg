@@ -4,7 +4,7 @@
 
 - 💡 I enjoy solving complex problems with code, building scalable systems, and leveraging data for actionable insights.
 
-- 🌱 I’m currently pursuing a master's in computer science
+- 🌱 I’m currently pursuing a Master's in Data Science
 
 - 📄 My experience: [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
 
