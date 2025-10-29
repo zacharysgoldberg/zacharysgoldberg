@@ -2,7 +2,7 @@
 
 <h3> I specialize in Software and Automation Engineering, with over 3 years of experience working on cutting-edge, mission-critical projects in the Aerospace and Defense industry.</h3>
 
-- 💡 I enjoy solving complex problems with code, building scalable systems, and leveraging data for actionable insights.
+- 💡 I enjoy solving complex problems with code, building scalable systems, and automating everything.
 
 - 🌱 I’m currently pursuing a Master's in Computer Science
 
