@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Zach</h1>
 
-<h3> I specialize in Data Analytics and Engineering, with over 3 years of experience working on cutting-edge, mission-critical projects in the Aerospace and Defense industry.</h3>
+<h3> I specialize in Software and Automation Engineering, with over 3 years of experience working on cutting-edge, mission-critical projects in the Aerospace and Defense industry.</h3>
 
 - 💡 I enjoy solving complex problems with code, building scalable systems, and leveraging data for actionable insights.
 
-- 🌱 I’m currently pursuing a Master's in Data Science
+- 🌱 I’m currently pursuing a Master's in Computer Science
 
 - 📄 My experience: [Resume](https://1drv.ms/b/s!Ah4qSs8EzmOWl-4RzSsmE4DEuqOnZg?e=SvCC43)
 
