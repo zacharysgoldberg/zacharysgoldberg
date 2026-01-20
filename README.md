@@ -12,7 +12,6 @@
 
 - Feel free to check out some of my personal projects:
   - [NHTSA FARS ELT Dashboard](https://github.com/zacharysgoldberg/nhtsa-fars-elt-dashboard)
-  - [Zillow Data ETL and Analysis](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Sound Experiment](https://github.com/zacharysgoldberg/Sound-Experiment)
   - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
 
