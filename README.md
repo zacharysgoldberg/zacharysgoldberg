@@ -12,7 +12,6 @@
 
 - Feel free to check out some of my personal projects:
   - [NHTSA FARS ELT Dashboard](https://github.com/zacharysgoldberg/nhtsa-fars-elt-dashboard)
-  - [ChatApp](https://github.com/zacharysgoldberg/ChatApp)
   - [Auditory Perception Simulator](https://github.com/zacharysgoldberg/Sound-Experiment)
 
 
