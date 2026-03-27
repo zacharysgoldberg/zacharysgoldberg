@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently pursuing a Master's in Analytics
 
-- 📄 My experience: [Resume](https://1drv.ms/b/c/9663ce04cf4a2a1e/IQDWC3nSZp9xR7qEnMldDB1tAT0eX8BUO2AipaubenIDzq4?e=nyTNFV)
+- 📄 My experience: [Resume](https://1drv.ms/b/c/9663ce04cf4a2a1e/IQAeauZNEkufQ6nDxyFs9dOYAZijOV82ktSR7MlttxlPT3I)
 
 - 📫 How to reach me: **zacharysgoldberg@outlook.com**
 
