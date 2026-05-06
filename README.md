@@ -4,7 +4,7 @@
 
 - 💡 I enjoy solving complex problems with data, and building reliable  systems.
 
-- 🌱 I’m currently pursuing a Master's in Analytics
+- 🌱 I’m currently pursuing a Master's in Modeling & Simulation
 
 - 📄 My experience: [Resume](https://1drv.ms/b/c/9663ce04cf4a2a1e/IQDlz3O5wMy6Soj-6LMOJoLBAahdtz9obODR7tHrTFNAj8Y)
 
