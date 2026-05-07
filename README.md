@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zach</h1>
 
-<h3> I specialize in data analytics, with over 4 years of experience working on mission-critical projects in the Aerospace and Defense industry.</h3>
+<h3> I specialize in data analytics and engineering, with over 4 years of experience working on mission-critical projects in the Aerospace and Defense industry.</h3>
 
 - 💡 I enjoy solving complex problems with data, and building reliable  systems.
 
