@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Zach</h1>
 
-<h3> I specialize in data analytics and engineering, with over 4 years of experience working on mission-critical projects in the Aerospace and Defense industry.</h3>
+<h3> I specialize in software and data engineering, with over 4 years of experience working on mission-critical projects in the Aerospace and Defense industry.</h3>
 
-- 💡 I enjoy solving complex problems with data, and building reliable  systems.
+- 💡 I enjoy solving complex problems with data and building reliable HPC systems.
 
 - 🌱 I’m currently pursuing a Master's in Modeling & Simulation
 
@@ -12,7 +12,6 @@
 
 - Feel free to check out some of my personal projects:
   - [NHTSA FARS ELT Dashboard](https://github.com/zacharysgoldberg/nhtsa-fars-elt-dashboard)
-  - [Zillow ETL Pipeline](https://github.com/zacharysgoldberg/real-estate-etl-pipeline)
   - [Auditory Perception Simulator](https://github.com/zacharysgoldberg/Sound-Experiment)
 
 
